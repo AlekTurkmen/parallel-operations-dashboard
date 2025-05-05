@@ -50,7 +50,7 @@ Operations UI is a web-based management interface designed to provide an intuiti
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
    ```
 
-   Ask Alek for these. 
+   Ask Alek for these keys.
 
 4. Run the development server:
    ```bash
