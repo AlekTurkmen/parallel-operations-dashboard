@@ -2,8 +2,8 @@
   "version": 2,
   "name": "operations-ui",
   "outputDirectory": ".next",
-  "installCommand": "cd app && npm install",
-  "buildCommand": "cd app && npm run build",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
   "regions": ["sfo1"],
   "headers": [
     {
