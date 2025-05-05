@@ -1,0 +1,28 @@
+# Build artifacts
+.next/
+node_modules/
+out/
+build/
+
+# Ignore the files that are causing issues in the build
+src/app/api/check-columns/route.ts
+src/app/api/setup-db/route.ts
+src/app/api/setup-supabase/route.ts
+src/app/api/update-csv/route.ts
+src/app/dashboard/layout.tsx
+src/app/setup/page.tsx
+src/components/accounts-panel.tsx
+src/components/dashboard/EntityCard.tsx
+src/components/dashboard/views/AccountsView.tsx
+src/components/dashboard/views/AgentsView.tsx
+src/components/dashboard/views/ClientsView.tsx
+src/components/dashboard/views/DevicesView.tsx
+src/components/device-selector.tsx
+src/components/devices-panel.tsx
+src/components/ui/input.tsx
+src/lib/csv-parser.ts
+src/lib/csv-updater.ts
+src/lib/data.ts
+src/lib/supabase-client.ts
+src/lib/supabase-operations.ts
+src/types/index.ts 
