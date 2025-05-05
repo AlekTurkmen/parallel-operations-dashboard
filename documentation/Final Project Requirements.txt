@@ -1,0 +1,118 @@
+﻿1. Project Requirements
+Your final project must include:
+* A working system that demonstrates your original project idea (adjusted for any reasonable changes).
+
+* A populated database with realistic sample data.
+
+* A database schema that reflects strong design principles:
+
+   * Appropriate use of primary keys, foreign keys, constraints.
+
+   * Sensible normalization (unless intentionally denormalized for scaling reasons).
+
+      * SQL CREATE TABLE statements that match your database design.
+      * (ORM objects are fine too)
+
+         * Code hosted and accessible on GitHub.
+
+         * Attention to scaling:
+
+            * Index designs and database structures that would support future growth.
+
+            * Thoughtful explanation of how your system could handle larger data volumes.
+
+Technical expectations:
+               * The most technically difficult or interesting part of your project should be clearly identified.
+
+               * You should be able to explain your major technical decisions and trade-offs.
+
+________________
+
+
+2. Presentation Requirements
+During your demo (maximum 10 minutes total):
+                  * Briefly introduce your project:
+
+                     * What it is, what it does, who uses it.
+
+                        * Walk through the key functionality.
+
+                        * Show how data was populated.
+
+                        * Show the core functionality of the project
+                        * Provide a way for everyone in the class to use your project (via hosting on starlink network or other simple install flow)
+
+                        * Be ready to discuss:
+
+                           * Any challenges you faced.
+
+                           * The technical highlight of your system (e.g., complex query, indexing strategy, interesting schema design).
+
+                           * How your system would scale in a real-world setting.
+
+Notes:
+                              * Setup time (plugging in laptops, connecting to projector, etc.) is counted toward your 10 minutes — be prepared.
+
+                              * 2 Minute Q&A at the end.
+
+________________
+
+
+3. Final Write-up (Proposal) Requirements
+Submit a single final write-up per group. It should include:
+                                 1. Abstract
+
+                                    * Short description of your final project idea.
+
+                                       2. Changes from the Original Plan
+
+                                          * Describe any changes to functionality or database schema.
+
+                                          * Explain why these changes were made.
+
+                                             3. Database and Data Description
+
+                                                * What data is stored.
+
+                                                * How you populated it (sources, generators, etc.).
+
+                                                * Approximate number of entries per table.
+
+                                                   4. Functionality Description
+
+                                                      * What the system can do.
+
+                                                      * Screenshots if helpful.
+
+                                                         5. Known Bugs or Missing Features
+
+                                                            * Anything that is incomplete or not working as intended.
+
+                                                            * (Optional) Instructions if I need to run/test anything manually.
+
+                                                               6. Technical Highlight
+
+                                                                  * What was the hardest/most interesting technical problem you tackled.
+
+                                                                  * How you approached and solved it (or worked around it).
+
+                                                                     7. Scaling Discussion
+
+                                                                        * If your system needed to support millions of rows, how would it scale?
+
+                                                                        * How did your indexing and database design prepare for that?
+
+                                                                           8. Work Breakdown
+
+                                                                              * Who did what in the group.
+
+                                                                                 9. Conclusion
+
+                                                                                    * Final thoughts and reflections on the project.
+
+                                                                                       10. GitHub Link
+
+                                                                                          * Link to your group's repository with your code.
+                                                                                          * Include instructions on how to run the project.
+                                                                                          * Make a demo video in your github.
+                                                                                          1. ~2-3 minutes 1 take detailing what your project does / how it works.

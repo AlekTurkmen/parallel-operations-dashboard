@@ -1,0 +1,35 @@
+{
+  "name": "operations-ui",
+  "version": "1.0.0",
+  "description": "Operations Dashboard for managing devices, accounts, and clients",
+  "scripts": {
+    "dev": "cd app && npm run dev",
+    "build": "cd app && npm run build",
+    "start": "cd app && npm run start",
+    "lint": "cd app && npm run lint",
+    "deploy": "vercel --prod"
+  },
+  "author": "Alek Turkmen",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekturkmen/operations-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alekturkmen/operations-ui/issues"
+  },
+  "homepage": "https://parallel.alekturkmen.com",
+  "dependencies": {
+    "@radix-ui/react-select": "^2.1.6",
+    "@radix-ui/react-slot": "^1.1.2",
+    "class-variance-authority": "^0.7.1",
+    "lucide-react": "^0.487.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.4.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
