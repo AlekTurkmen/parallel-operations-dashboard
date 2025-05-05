@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "operations-ui",
-  "outputDirectory": "./app/.next",
+  "outputDirectory": ".next",
   "installCommand": "cd app && npm install",
   "buildCommand": "cd app && npm run build",
   "regions": ["sfo1"],
